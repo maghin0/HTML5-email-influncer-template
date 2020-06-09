@@ -1,5 +1,3 @@
----
 # HTML5-email-influncer-template
 
-image: /html5-design-template.jpg
----
+![HTML5 template](/template.jpg)
